@@ -1,0 +1,6 @@
+[submodule "recruiting-task-node-js"]
+	path = recruiting-task-node-js
+	url = git@github.com:phenneberg/recruiting-task-node-js.git
+[submodule "recruiting-task-angular"]
+	path = recruiting-task-angular
+	url = git@github.com:phenneberg/recruiting-task-angular.git
